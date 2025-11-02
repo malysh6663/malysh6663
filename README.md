@@ -1,4 +1,6 @@
-Hi! I’m Kemalgeldi Gurbannyyazov, a Diploma in Information Technology student at Taylor’s University (Malaysia), currently expected to graduate in July 2026.
+# Hi! I’m Kemalgeldi
+
+a Diploma in Information Technology student at Taylor’s University (Malaysia), currently expected to graduate in July 2026.
 
 I’m passionate about game development and software engineering, with hands-on experience creating 3D Unity projects using C#, web applications using PHP & MySQL, and Java OOP systems for coursework and personal projects.
 
