@@ -1,6 +1,20 @@
 # 👋 Hi, I'm Kemal!
 
-🎮 Aspiring Game Developer | 💻 Passionate about coding and creating fun experiences  
+Hi! I’m Kemalgeldi Gurbannyyazov, a Diploma in Information Technology student at Taylor’s University (Malaysia), currently expected to graduate in July 2026.
+
+I’m passionate about game development and software engineering, with hands-on experience creating 3D Unity projects using C#, web applications using PHP & MySQL, and Java OOP systems for coursework and personal projects.
+
+My main interests include:
+
+🎮 Designing and programming interactive games in Unity (C#)
+
+💻 Building dynamic websites using PHP, HTML, CSS, and MySQL
+
+🧠 Exploring new tools, frameworks, and improving my coding logic
+
+I’m currently looking for an internship opportunity in game development or software development where I can apply my skills, learn from professionals, and contribute to exciting projects.
+
+Outside of coding, I enjoy experimenting with new tech, improving my portfolio, and learning best practices for writing clean, efficient code.
 
 ---
 
